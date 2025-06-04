@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab7\lab7t7\bin\Release\net8.0\lab7t7.exe
+C:\Users\vinil\source\repos\lab7\lab7t7\bin\Release\net8.0\lab7t7.deps.json
+C:\Users\vinil\source\repos\lab7\lab7t7\bin\Release\net8.0\lab7t7.runtimeconfig.json
+C:\Users\vinil\source\repos\lab7\lab7t7\bin\Release\net8.0\lab7t7.dll
+C:\Users\vinil\source\repos\lab7\lab7t7\bin\Release\net8.0\lab7t7.pdb
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.dll
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\refint\lab7t7.dll
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.pdb
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\lab7t7.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab7\lab7t7\obj\Release\net8.0\ref\lab7t7.dll
